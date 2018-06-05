@@ -21,3 +21,7 @@ def breakfast(type='Frosted Flakes')
   puts "congrats you got a #{type}"
 end
 breakfast("scrabled eggs")
+def lunch(type='Frosted Flakes')
+  puts "congrats you got a #{type}"
+end
+lunch("scrabled eggs")
